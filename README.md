@@ -1,1 +1,1 @@
-Tugas Praktikum Git dan Githiub tentang Metode MPPL
+Tugas Praktikum Git dan Github tentang Metode MPPL
